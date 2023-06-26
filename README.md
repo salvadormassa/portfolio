@@ -1,1 +1,1 @@
-# [Link text](https://salvadormassa.github.io 'Portfolio link')
+<a href="https://salvadormassa.github.io" target="_blank">My Portfolio</a>
